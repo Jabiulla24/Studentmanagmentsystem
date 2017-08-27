@@ -11,6 +11,6 @@ Add Subjects
 Enter IA MArks
 Take Attendance
 
-3)Student
+3)Student(Android Application)
 View IA Marks
 View Attendance
